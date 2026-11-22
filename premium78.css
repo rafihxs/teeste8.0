@@ -1,0 +1,32 @@
+/* PETLELE 7.8 — identidade premium, sem alterar os módulos */
+:root{--gold:#f9c82d;--gold-strong:#ffe078;--premium-bg:#080a0e}
+html{scroll-behavior:smooth}body{background:#080a0e!important;color:#f5f5f7}
+.main{position:relative;background:radial-gradient(ellipse 80% 25% at 80% 2%,rgba(247,190,35,.07),transparent),#080a0e!important}
+.side{background:linear-gradient(170deg,#101319,#080a0e 68%)!important;border-right:1px solid rgba(250,202,45,.13)!important}
+.side .logo{font-weight:950;letter-spacing:-1.1px;font-size:25px!important}.side .logo b{color:#f9c82d}
+.top{background:rgba(12,15,20,.83)!important;backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px);border-bottom:1px solid rgba(255,255,255,.06);position:sticky;top:0;z-index:25}
+.hero78{isolation:isolate;position:relative!important;overflow:hidden!important;min-height:370px;display:flex;flex-direction:column;align-items:flex-start;justify-content:center;padding:clamp(26px,5vw,58px)!important;margin:16px 0 26px!important;background:linear-gradient(125deg,#12161d 0%,#0b0e13 62%,#1b170d 100%)!important;border:1px solid rgba(251,203,56,.24)!important;border-radius:26px!important;box-shadow:0 18px 60px rgba(0,0,0,.28),inset 0 1px rgba(255,255,255,.045)}
+.hero78:before{content:'';position:absolute;inset:0;z-index:-1;background:linear-gradient(90deg,rgba(9,12,16,.90) 0%,rgba(9,12,16,.62) 65%,rgba(9,12,16,.25) 100%)}
+.petlele-watermark{pointer-events:none;user-select:none;position:absolute;z-index:-2;right:-3%;top:12%;font-size:clamp(90px,18vw,270px);font-weight:1000;letter-spacing:-.09em;line-height:1;color:rgba(251,199,41,.14);white-space:nowrap;transform:rotate(-10deg);text-shadow:0 0 55px rgba(250,191,28,.18);animation:petleleFloat 8s ease-in-out infinite alternate}
+.hero78-glow{position:absolute;z-index:-2;right:-15%;top:-70%;width:75%;aspect-ratio:1;border-radius:50%;background:radial-gradient(circle,rgba(255,190,25,.20),rgba(255,190,25,.045) 40%,transparent 68%);filter:blur(18px);animation:petlelePulse 7s ease-in-out infinite alternate}
+.hero78 .eyebrow{font-size:11px!important;letter-spacing:.17em!important;font-weight:850!important;color:#ffd65a!important;position:relative}
+.hero78 h1{position:relative;font-size:clamp(33px,4.3vw,64px)!important;line-height:1.08!important;letter-spacing:-.055em!important;max-width:720px;margin:16px 0!important;font-weight:950!important;color:#fff!important}
+.hero78 h1 span{color:#ffd146!important;background:linear-gradient(110deg,#fff0a4,#f4b916 58%,#ffe27c);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
+.hero78>p{position:relative;max-width:590px!important;color:#b6bdc9!important;font-size:15px!important;line-height:1.7!important}
+.hero78 .search{position:relative;width:min(100%,660px);border:1px solid rgba(255,218,100,.26)!important;background:#11151b!important;border-radius:16px!important;padding:6px 8px 6px 16px!important;box-shadow:0 12px 36px rgba(0,0,0,.18)}
+.hero78 .search input{min-width:0;flex:1;background:transparent!important;color:#fff!important}
+.hero78 .search button{border-radius:11px!important;background:#f9c82d!important;color:#111!important;font-weight:850!important}
+.hero78-shortcuts{display:flex;flex-wrap:wrap;gap:9px;margin-top:22px;position:relative}
+.hero78-shortcuts a{font-size:12px;font-weight:750;color:#e7e9ee;text-decoration:none;padding:10px 13px;border:1px solid rgba(255,255,255,.12);background:rgba(255,255,255,.045);border-radius:10px;transition:transform .2s,border-color .2s,background .2s}
+.hero78-shortcuts a:hover{transform:translateY(-3px);border-color:#f9c82d;background:rgba(249,200,45,.12)}
+.hero78 .stats{width:100%;display:flex;flex-wrap:wrap;gap:10px;margin:20px 0 0!important;position:relative}
+.hero78 .stat{background:rgba(255,255,255,.035)!important;border:1px solid rgba(255,255,255,.09)!important;border-radius:12px!important;padding:10px 15px!important;color:#aeb5c0!important}
+.hero78 .stat strong{color:#ffda64!important}
+.main section:not(.hero78){scroll-margin-top:90px}
+#dispensers,#duvidas77,#catalogo72,.dose-section,.pet-tools,.feature-section{border-radius:19px!important}
+button,input,select{transition:border-color .2s,box-shadow .2s,transform .2s}
+button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible{outline:2px solid #ffd14a!important;outline-offset:3px}
+@keyframes petleleFloat{from{transform:translate3d(0,0,0) rotate(-10deg)}to{transform:translate3d(-18px,16px,0) rotate(-8deg)}}
+@keyframes petlelePulse{from{opacity:.5;transform:scale(.94)}to{opacity:1;transform:scale(1.1)}}
+@media(max-width:700px){.hero78{margin:10px 0 20px!important;min-height:410px;padding:26px 19px!important;border-radius:20px!important}.hero78 h1{font-size:38px!important}.hero78>p{font-size:13px!important}.petlele-watermark{font-size:105px;top:18%;right:-25%;opacity:.8}.hero78 .search{width:100%}.hero78-shortcuts a{padding:9px 10px;font-size:11px}.hero78 .stats{gap:7px}.hero78 .stat{padding:8px 10px!important;font-size:11px!important}.hero78 .stat strong{font-size:18px!important}}
+@media(prefers-reduced-motion:reduce){.petlele-watermark,.hero78-glow{animation:none!important}html{scroll-behavior:auto}}

@@ -1,0 +1,506 @@
+[
+  {
+    "name": "Special Dog Gold Batata Carne Frango",
+    "price": 12.0,
+    "photo": "assets/etiquetas/1000305541.webp",
+    "species": "Cães",
+    "brand": "Special Dog",
+    "brandImage": "assets/marcas/special-dog.svg"
+  },
+  {
+    "name": "Special Dog Carne",
+    "price": 8.0,
+    "photo": "assets/etiquetas/1000305544.webp",
+    "species": "Cães",
+    "brand": "Special Dog",
+    "brandImage": "assets/marcas/special-dog.svg"
+  },
+  {
+    "name": "Special Dog Ultra Filhotes RP",
+    "price": 13.0,
+    "photo": "assets/etiquetas/1000305535.webp",
+    "species": "Cães",
+    "brand": "Special Dog",
+    "brandImage": "assets/marcas/special-dog.svg"
+  },
+  {
+    "name": "Bio Natural RP Frango",
+    "price": 19.0,
+    "photo": "assets/etiquetas/1000305537.webp",
+    "species": "Cães",
+    "brand": "Bio Natural",
+    "brandImage": "assets/marcas/bio-natural.svg"
+  },
+  {
+    "name": "Special Dog RP Frango Arroz",
+    "price": 12.5,
+    "photo": "assets/etiquetas/1000305539.webp",
+    "species": "Cães",
+    "brand": "Special Dog",
+    "brandImage": "assets/marcas/special-dog.svg"
+  },
+  {
+    "name": "Special Dog Junior Carne",
+    "price": 12.0,
+    "photo": "assets/etiquetas/1000305526.webp",
+    "species": "Cães",
+    "brand": "Special Dog",
+    "brandImage": "assets/marcas/special-dog.svg"
+  },
+  {
+    "name": "Bio Natural Gatos Castrados Frango",
+    "price": 22.0,
+    "photo": "assets/etiquetas/1000305529.webp",
+    "species": "Gatos",
+    "brand": "Bio Natural",
+    "brandImage": "assets/marcas/bio-natural.svg"
+  },
+  {
+    "name": "Bio Natural Gatos Castrados Salmão",
+    "price": 22.0,
+    "photo": "assets/etiquetas/1000305531.webp",
+    "species": "Gatos",
+    "brand": "Bio Natural",
+    "brandImage": "assets/marcas/bio-natural.svg"
+  },
+  {
+    "name": "Special Cat Castrados Mix Carne",
+    "price": 15.0,
+    "photo": "assets/etiquetas/1000305521.webp",
+    "species": "Gatos",
+    "brand": "Special Cat",
+    "brandImage": "assets/marcas/special-cat.svg"
+  },
+  {
+    "name": "Special Cat Carne",
+    "price": 14.0,
+    "photo": "assets/etiquetas/1000305524.webp",
+    "species": "Gatos",
+    "brand": "Special Cat",
+    "brandImage": "assets/marcas/special-cat.svg"
+  },
+  {
+    "name": "Kettymil Castrados Salmão",
+    "price": 12.5,
+    "photo": "assets/etiquetas/1000305514.webp",
+    "species": "Gatos",
+    "brand": "Kettymil",
+    "brandImage": "assets/marcas/kettymil.svg"
+  },
+  {
+    "name": "Cat Chow Filhotes Frango Leite",
+    "price": 19.0,
+    "photo": "assets/etiquetas/1000305508.webp",
+    "species": "Gatos",
+    "brand": "Cat Chow",
+    "brandImage": "assets/marcas/cat-chow.svg"
+  },
+  {
+    "name": "Golden Gatos Filhotes Frango",
+    "price": 20.0,
+    "photo": "assets/etiquetas/1000305510.webp",
+    "species": "Gatos",
+    "brand": "Golden",
+    "brandImage": "assets/marcas/golden.svg"
+  },
+  {
+    "name": "Kettymil Castrados Frango",
+    "price": 12.5,
+    "photo": "assets/etiquetas/1000305512.webp",
+    "species": "Gatos",
+    "brand": "Kettymil",
+    "brandImage": "assets/marcas/kettymil.svg"
+  },
+  {
+    "name": "Origens Gatos Filhotes Frango",
+    "price": 16.5,
+    "photo": "assets/etiquetas/1000305506.webp",
+    "species": "Gatos",
+    "brand": "Origens",
+    "brandImage": "assets/marcas/origens.svg"
+  },
+  {
+    "name": "Multicat Castrados Frango",
+    "price": 13.0,
+    "photo": "assets/etiquetas/1000305502.webp",
+    "species": "Gatos",
+    "brand": "Multicat",
+    "brandImage": "assets/marcas/multicat.svg"
+  },
+  {
+    "name": "Kettymil Gourmet Carne",
+    "price": 12.5,
+    "photo": "assets/etiquetas/1000305504.webp",
+    "species": "Gatos",
+    "brand": "Kettymil",
+    "brandImage": "assets/marcas/kettymil.svg"
+  },
+  {
+    "name": "Special Cat Castrados Ultra Salmão",
+    "price": 16.0,
+    "photo": "assets/etiquetas/1000305496.webp",
+    "species": "Gatos",
+    "brand": "Special Cat",
+    "brandImage": "assets/marcas/special-cat.svg"
+  },
+  {
+    "name": "Magnus Cat Filhotes Frango Carne",
+    "price": 14.0,
+    "photo": "assets/etiquetas/1000305498.webp",
+    "species": "Gatos",
+    "brand": "Magnus",
+    "brandImage": "assets/marcas/magnus.svg"
+  },
+  {
+    "name": "Special Cat Filhotes Frango",
+    "price": 14.5,
+    "photo": "assets/etiquetas/1000305500.webp",
+    "species": "Gatos",
+    "brand": "Special Cat",
+    "brandImage": "assets/marcas/special-cat.svg"
+  },
+  {
+    "name": "Fórmula Natural Gatos Castrados Salmão",
+    "price": 24.0,
+    "photo": "assets/etiquetas/1000305494.webp",
+    "species": "Gatos",
+    "brand": "Fórmula Natural",
+    "brandImage": "assets/marcas/f-rmula-natural.svg"
+  },
+  {
+    "name": "Magnus Cat Castrados Carne",
+    "price": 15.0,
+    "photo": "assets/etiquetas/1000305490.webp",
+    "species": "Gatos",
+    "brand": "Magnus",
+    "brandImage": "assets/marcas/magnus.svg"
+  },
+  {
+    "name": "Magnus Gatos Castrados Frango Nuggets",
+    "price": 15.0,
+    "photo": "assets/etiquetas/1000305492.webp",
+    "species": "Gatos",
+    "brand": "Magnus",
+    "brandImage": "assets/marcas/magnus.svg"
+  },
+  {
+    "name": "Magnus Gatos Castrados Salmão",
+    "price": 15.0,
+    "photo": "assets/etiquetas/1000305484.webp",
+    "species": "Gatos",
+    "brand": "Magnus",
+    "brandImage": "assets/marcas/magnus.svg"
+  },
+  {
+    "name": "Real Gatos Castrados Frango",
+    "price": 14.5,
+    "photo": "assets/etiquetas/1000305486.webp",
+    "species": "Gatos",
+    "brand": "Real",
+    "brandImage": "assets/marcas/real.svg"
+  },
+  {
+    "name": "Magnus Cat Salmão",
+    "price": 14.0,
+    "photo": "assets/etiquetas/1000305488.webp",
+    "species": "Gatos",
+    "brand": "Magnus",
+    "brandImage": "assets/marcas/magnus.svg"
+  },
+  {
+    "name": "Magnus Cat Carne",
+    "price": 14.0,
+    "photo": "assets/etiquetas/1000305476.webp",
+    "species": "Gatos",
+    "brand": "Magnus",
+    "brandImage": "assets/marcas/magnus.svg"
+  },
+  {
+    "name": "Origens Gatos Castrados Carne",
+    "price": 17.5,
+    "photo": "assets/etiquetas/1000305478.webp",
+    "species": "Gatos",
+    "brand": "Origens",
+    "brandImage": "assets/marcas/origens.svg"
+  },
+  {
+    "name": "Real Gatos Castrados Salmão",
+    "price": 14.5,
+    "photo": "assets/etiquetas/1000305480.webp",
+    "species": "Gatos",
+    "brand": "Real",
+    "brandImage": "assets/marcas/real.svg"
+  },
+  {
+    "name": "PremieR Nattu Gatos Castrados Frango",
+    "price": 33.0,
+    "photo": "assets/etiquetas/1000305470.webp",
+    "species": "Gatos",
+    "brand": "PremieR",
+    "brandImage": "assets/marcas/premier.svg"
+  },
+  {
+    "name": "Origens Gatos Castrados Frango",
+    "price": 17.0,
+    "photo": "assets/etiquetas/1000305472.webp",
+    "species": "Gatos",
+    "brand": "Origens",
+    "brandImage": "assets/marcas/origens.svg"
+  },
+  {
+    "name": "Origens Gatos Carne",
+    "price": 16.0,
+    "photo": "assets/etiquetas/1000305474.webp",
+    "species": "Gatos",
+    "brand": "Origens",
+    "brandImage": "assets/marcas/origens.svg"
+  },
+  {
+    "name": "Cat Chow Gatos Castrados Frango",
+    "price": 17.0,
+    "photo": "assets/etiquetas/1000305468.webp",
+    "species": "Gatos",
+    "brand": "Cat Chow",
+    "brandImage": "assets/marcas/cat-chow.svg"
+  },
+  {
+    "name": "Golden Gatos Castrados Carne",
+    "price": 19.0,
+    "photo": "assets/etiquetas/1000305464.webp",
+    "species": "Gatos",
+    "brand": "Golden",
+    "brandImage": "assets/marcas/golden.svg"
+  },
+  {
+    "name": "Origens Gatos Castrados Salmão",
+    "price": 18.0,
+    "photo": "assets/etiquetas/1000305466.webp",
+    "species": "Gatos",
+    "brand": "Origens",
+    "brandImage": "assets/marcas/origens.svg"
+  },
+  {
+    "name": "Cat Chow Gatos Castrados Peixe",
+    "price": 17.0,
+    "photo": "assets/etiquetas/1000305462.webp",
+    "species": "Gatos",
+    "brand": "Cat Chow",
+    "brandImage": "assets/marcas/cat-chow.svg"
+  },
+  {
+    "name": "Golden Gatos Carne",
+    "price": 17.0,
+    "photo": "assets/etiquetas/1000305458.webp",
+    "species": "Gatos",
+    "brand": "Golden",
+    "brandImage": "assets/marcas/golden.svg"
+  },
+  {
+    "name": "Cat Chow Gatos Carne",
+    "price": 17.0,
+    "photo": "assets/etiquetas/1000305460.webp",
+    "species": "Gatos",
+    "brand": "Cat Chow",
+    "brandImage": "assets/marcas/cat-chow.svg"
+  },
+  {
+    "name": "Multidog Chips",
+    "price": 8.0,
+    "photo": "assets/etiquetas/1000305450.webp",
+    "species": "Cães",
+    "brand": "Multidog",
+    "brandImage": "assets/marcas/multidog.svg"
+  },
+  {
+    "name": "Multidog Frango Carne",
+    "price": 7.7,
+    "photo": "assets/etiquetas/1000305452.webp",
+    "species": "Cães",
+    "brand": "Multidog",
+    "brandImage": "assets/marcas/multidog.svg"
+  },
+  {
+    "name": "Real Dog Frango Arroz PP",
+    "price": 9.0,
+    "photo": "assets/etiquetas/1000305456.webp",
+    "species": "Cães",
+    "brand": "Real",
+    "brandImage": "assets/marcas/real.svg"
+  },
+  {
+    "name": "Golden MG Frango Arroz",
+    "price": 14.0,
+    "photo": "assets/etiquetas/1000305444.webp",
+    "species": "Cães",
+    "brand": "Golden",
+    "brandImage": "assets/marcas/golden.svg"
+  },
+  {
+    "name": "Magnus Todo Dia",
+    "price": 8.0,
+    "photo": "assets/etiquetas/1000305446.webp",
+    "species": "Cães",
+    "brand": "Magnus",
+    "brandImage": "assets/marcas/magnus.svg"
+  },
+  {
+    "name": "Real Dog Carne Arroz RP",
+    "price": 9.0,
+    "photo": "assets/etiquetas/1000305448.webp",
+    "species": "Cães",
+    "brand": "Real",
+    "brandImage": "assets/marcas/real.svg"
+  },
+  {
+    "name": "Dog Chow Adulto Frango Arroz",
+    "price": 13.5,
+    "photo": "assets/etiquetas/1000305438.webp",
+    "species": "Cães",
+    "brand": "Dog Chow",
+    "brandImage": "assets/marcas/dog-chow.svg"
+  },
+  {
+    "name": "Magnus Carne Batata",
+    "price": 8.0,
+    "photo": "assets/etiquetas/1000305440.webp",
+    "species": "Cães",
+    "brand": "Magnus",
+    "brandImage": "assets/marcas/magnus.svg"
+  },
+  {
+    "name": "PremieR RP Frango Mandioca",
+    "price": 19.5,
+    "photo": "assets/etiquetas/1000305442.webp",
+    "species": "Cães",
+    "brand": "PremieR",
+    "brandImage": "assets/marcas/premier.svg"
+  },
+  {
+    "name": "Golden Gatos Castrados Salmão",
+    "price": 19.5,
+    "photo": "assets/etiquetas/1000305436.webp",
+    "species": "Gatos",
+    "brand": "Golden",
+    "brandImage": "assets/marcas/golden.svg"
+  },
+  {
+    "name": "Golden PP Frango Arroz",
+    "price": 13.5,
+    "photo": "assets/etiquetas/1000305428.webp",
+    "species": "Cães",
+    "brand": "Golden",
+    "brandImage": "assets/marcas/golden.svg"
+  },
+  {
+    "name": "PremieR Filhotes PP Frango Mandioca",
+    "price": 21.0,
+    "photo": "assets/etiquetas/1000305430.webp",
+    "species": "Cães",
+    "brand": "PremieR",
+    "brandImage": "assets/marcas/premier.svg"
+  },
+  {
+    "name": "Golden PP Carne Arroz",
+    "price": 13.5,
+    "photo": "assets/etiquetas/1000305432.webp",
+    "species": "Cães",
+    "brand": "Golden",
+    "brandImage": "assets/marcas/golden.svg"
+  },
+  {
+    "name": "Dog Chow RP Arroz Frango",
+    "price": 13.5,
+    "photo": "assets/etiquetas/1000305434.webp",
+    "species": "Cães",
+    "brand": "Dog Chow",
+    "brandImage": "assets/marcas/dog-chow.svg"
+  },
+  {
+    "name": "Pedigree RP",
+    "price": 14.0,
+    "photo": "assets/etiquetas/1000305423.webp",
+    "species": "Cães",
+    "brand": "Pedigree",
+    "brandImage": "assets/marcas/pedigree.svg"
+  },
+  {
+    "name": "Dog Chow Filhotes Frango MG",
+    "price": 13.0,
+    "photo": "assets/etiquetas/1000305426.webp",
+    "species": "Cães",
+    "brand": "Dog Chow",
+    "brandImage": "assets/marcas/dog-chow.svg"
+  },
+  {
+    "name": "Pedigree Junior",
+    "price": 16.0,
+    "photo": "assets/etiquetas/1000305416.webp",
+    "species": "Cães",
+    "brand": "Pedigree",
+    "brandImage": "assets/marcas/pedigree.svg"
+  },
+  {
+    "name": "Dogmil Filhotes",
+    "price": 10.5,
+    "photo": "assets/etiquetas/1000305418.webp",
+    "species": "Cães",
+    "brand": "Dogmil",
+    "brandImage": "assets/marcas/dogmil.svg"
+  },
+  {
+    "name": "Dog Chow Filhotes PP Carne Frango Arroz",
+    "price": 13.0,
+    "photo": "assets/etiquetas/1000305421.webp",
+    "species": "Cães",
+    "brand": "Dog Chow",
+    "brandImage": "assets/marcas/dog-chow.svg"
+  },
+  {
+    "name": "Fórmula Natural Filhotes Mini",
+    "price": 20.0,
+    "photo": "assets/etiquetas/1000305366.webp",
+    "species": "Cães",
+    "brand": "Fórmula Natural",
+    "brandImage": "assets/marcas/f-rmula-natural.svg"
+  },
+  {
+    "name": "Golden PP Filhotes Carne Arroz",
+    "price": 15.0,
+    "photo": "assets/etiquetas/1000305368.webp",
+    "species": "Cães",
+    "brand": "Golden",
+    "brandImage": "assets/marcas/golden.svg"
+  },
+  {
+    "name": "Golden PP Filhotes Frango Arroz",
+    "price": 15.0,
+    "photo": "assets/etiquetas/1000305363.webp",
+    "species": "Cães",
+    "brand": "Golden",
+    "brandImage": "assets/marcas/golden.svg"
+  },
+  {
+    "name": "Magnus Filhotes Carne",
+    "price": 11.0,
+    "photo": "assets/etiquetas/1000305357.webp",
+    "species": "Cães",
+    "brand": "Magnus",
+    "brandImage": "assets/marcas/magnus.svg"
+  },
+  {
+    "name": "Special Dog Gold Filhotes Carne Frango",
+    "price": 15.0,
+    "photo": "assets/etiquetas/1000305360.webp",
+    "species": "Cães",
+    "brand": "Special Dog",
+    "brandImage": "assets/marcas/special-dog.svg"
+  },
+  {
+    "name": "Golden MG Filhotes Carne Arroz",
+    "price": 15.0,
+    "photo": "assets/etiquetas/1000305353.webp",
+    "species": "Cães",
+    "brand": "Golden",
+    "brandImage": "assets/marcas/golden.svg"
+  }
+]

@@ -1,0 +1,5 @@
+PETLELE 7.5 — imagens locais por ficha, sem imagens de produtos trocados.
+Envie TODOS os arquivos e a pasta assets/ para a raiz do repositório teste6.
+Fotos comerciais remotas podem falhar e recebem ilustração local como alternativa.
+As ilustrações NÃO são fotos oficiais de embalagens.
+Fichas educativas: para doses e riscos, conferir rótulo e bula do produto específico.

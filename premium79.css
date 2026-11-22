@@ -1,0 +1,33 @@
+/* PETLELE 7.9 — refinamento editorial e navegação */
+:root{--gold:#f5c542;--gold-strong:#ffe38b;--premium-bg:#090b0f}
+body{font-family:Inter,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif!important;letter-spacing:-.008em}
+.main{background:radial-gradient(ellipse at 85% 5%,rgba(242,188,37,.055),transparent 34%),#090b0f!important}
+.side{box-shadow:12px 0 45px rgba(0,0,0,.15)}
+.side .logo{display:flex;align-items:center;gap:5px;padding-bottom:8px}
+.side h4{font-size:10px!important;letter-spacing:.16em!important;color:#9ba1ae!important}
+.side .nav{border-radius:11px!important;margin-block:2px!important;transition:background .2s,transform .2s}
+.side .nav:hover{background:rgba(245,197,66,.11)!important;transform:translateX(3px)}
+.top{min-height:66px!important}
+.hero78{min-height:410px!important;border-radius:24px!important;background:linear-gradient(115deg,#171c25 0%,#10141b 57%,#29200e 100%)!important;box-shadow:0 24px 70px rgba(0,0,0,.34)!important}
+.hero78:after{content:'';position:absolute;inset:0;z-index:-1;pointer-events:none;background-image:linear-gradient(rgba(255,255,255,.017) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.017) 1px,transparent 1px);background-size:36px 36px;mask-image:linear-gradient(90deg,transparent 25%,black)}
+.petlele-watermark{letter-spacing:-.075em!important;right:-4%!important;top:12%!important;opacity:.68!important}
+.hero78 .eyebrow{display:inline-flex;align-items:center;gap:8px;padding:8px 12px;border:1px solid rgba(245,197,66,.24);border-radius:50px;background:rgba(245,197,66,.065);font-size:10px!important}
+.hero78 h1{max-width:760px!important;font-weight:900!important;letter-spacing:-.055em!important}
+.hero78 .search{margin-top:10px!important;min-height:58px}
+.hero78 .search button{min-height:43px;padding-inline:22px!important}
+.hero78-shortcuts a{border-radius:999px!important}
+.hero78 .stat{min-width:125px;backdrop-filter:blur(8px)}
+.main h2{letter-spacing:-.035em;line-height:1.16}
+#dispensers,#duvidas77,#catalogo72,.dose-section,.pet-tools,.feature-section{border:1px solid rgba(255,255,255,.075)!important;box-shadow:0 14px 40px rgba(0,0,0,.12)}
+.dpgrid,.grid{gap:15px!important}
+.dpgrid>*,.grid>*{transition:transform .22s ease,border-color .22s ease,box-shadow .22s ease}
+.dpgrid>*:hover,.grid>*:hover{transform:translateY(-3px);border-color:rgba(245,197,66,.35)!important;box-shadow:0 12px 32px rgba(0,0,0,.23)}
+button{cursor:pointer}button:active{transform:scale(.985)}
+input,select,textarea{accent-color:#f5c542}
+#dpsearch,#faq77search{min-height:46px}
+.bottom-nav{backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);border-top:1px solid rgba(245,197,66,.18)!important}
+.bottom-nav button{min-height:50px}
+.skip-link{position:fixed;top:-100px;left:14px;z-index:9999;background:#f5c542;color:#101010;padding:12px 16px;border-radius:10px;font-weight:800}.skip-link:focus{top:12px}
+.premium79-footer{text-align:center;color:#949aa7;font-size:12px;padding:20px 12px 30px;letter-spacing:.02em}
+@media(max-width:700px){.hero78{min-height:430px!important;padding:24px 18px!important}.hero78 h1{font-size:clamp(32px,9vw,42px)!important}.hero78 .search{padding:5px!important}.hero78 .search button{padding-inline:12px!important}.hero78 .stat{min-width:0;flex:1}.hero78 .eyebrow{font-size:9px!important;letter-spacing:.08em!important}.dpgrid,.grid{gap:10px!important}}
+@media(prefers-reduced-motion:reduce){*,*:before,*:after{animation-duration:.01ms!important;transition-duration:.01ms!important;scroll-behavior:auto!important}}
